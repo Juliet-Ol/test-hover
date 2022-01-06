@@ -1,0 +1,193 @@
+/* *,*::before, *::after {
+  text-align: center;
+  } */
+  
+  .img1{
+    
+    width:200px;
+    height:200px;
+    
+    
+  }
+  .text1{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img1:hover .text1{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+
+  .img2{
+    
+    width:200px;
+    height:200px;
+    
+  }
+  .text2{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img2:hover .text2{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+
+  .img3{
+    
+    width:200px;
+    height:200px;
+    
+  }
+  .text3{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img3:hover .text3{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+
+
+
+  .img4{
+    
+    width:200px;
+    height:200px;
+    
+  }
+  .text4{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img4:hover .text4{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+  
+  .img5{
+    
+    width:200px;
+    height:200px;
+    
+    
+  }
+  .text5{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img5:hover .text5{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+  .img6{
+    
+    width:200px;
+    height:200px;
+    
+    
+  }
+  .text6{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img6:hover .text6{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+
+  .img7{
+    
+    width:200px;
+    height:200px;
+    
+    
+  }
+  .text7{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img7:hover .text7{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
+
+  .img8{
+    
+    width:200px;
+    height:200px;
+    
+    
+  }
+  .text8{
+    width: 200px;
+    height:200px;
+    background:#FFF;
+    opacity:0;
+  } 
+  
+  .img8:hover .text8{
+    opacity:0.6;
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight:700;
+    
+    padding:30px;
+  } 
